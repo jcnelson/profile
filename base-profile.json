@@ -1,0 +1,69 @@
+{
+  "@type": "Person", 
+  "account": [
+      {
+          "@type": "Account", 
+          "identifier": "JudeCNelson", 
+          "proofType": "http",
+          "proofUrl": "https://twitter.com/JudeCNelson/status/925732906844262400",
+          "service": "twitter"
+      }, 
+      {
+          "@type": "Account", 
+          "identifier": "sunspider", 
+          "proofType": "http",
+          "proofUrl": "https://www.facebook.com/sunspider/posts/1447528245316736", 
+          "service": "facebook"
+      }, 
+      {
+          "@type": "Account", 
+          "identifier": "jcnelson", 
+          "proofType": "http", 
+          "proofUrl": "https://gist.github.com/jcnelson/59ed0285cc1a1b299e43ddf31fec879f",
+          "service": "github"
+      }, 
+      {
+          "@type": "Account",
+          "identifier": "jude-",
+          "proofType": "http",
+          "proofUrl": "https://news.ycombinator.com/user?id=jude-",
+          "service": "hackerNews"
+      },
+      {
+          "@type": "Account", 
+          "identifier": "1GcEkyrGkDnj9obtW56m6W915FkqMjehrP", 
+          "role": "payment", 
+          "service": "bitcoin"
+      },
+      {
+          "@type": "Account",
+          "identifier": "876AB05B96F917402A6F76EF53ED2ECADB858875",
+          "role": "PGP key (Blockstack packages)",
+          "service": "pgp"
+      }
+  ], 
+  "address": {
+      "@type": "PostalAddress", 
+      "addressLocality": "Princeton University"
+  }, 
+  "description": "Blockstack Engineer", 
+  "image": [
+      {
+          "@type": "ImageObject", 
+          "contentUrl": "https://s3.amazonaws.com/kd4/judecn", 
+          "name": "avatar"
+      }, 
+      {
+          "@type": "ImageObject", 
+          "contentUrl": "https://s3.amazonaws.com/97p/gQZ.jpg", 
+          "name": "cover"
+      }
+  ], 
+  "name": "Jude Nelson", 
+  "website": [
+      {
+          "@type": "WebSite", 
+          "url": "http://www.cs.princeton.edu/~jcnelson"
+      }
+  ]
+}
